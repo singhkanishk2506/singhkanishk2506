@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.jpg" alt="Intro" height="200" width="680">
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" alt="Intro" height="400" width="780">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kanishk Vardhan Singh</h1>
